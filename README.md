@@ -50,12 +50,6 @@ Anyone interested in learning SQL basics and best practices can also use it as a
 
 ---
 
-## 📜 License
-
-Currently, this repository does not include a license. If you wish to use the code, please contact me first or wait until I add a proper license (e.g., MIT).
-
----
-
 ## 🙌 Acknowledgments
 
 * [CS50’s Introduction to Databases with SQL](https://cs50.harvard.edu/sql/)
