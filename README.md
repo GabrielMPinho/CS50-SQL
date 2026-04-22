@@ -50,6 +50,104 @@ Anyone interested in learning SQL basics and best practices can also use it as a
 
 ---
 
+## 🏢 Repository Structure
+
+```text
+CS50-SQL
+├─ Problem Set 1
+│  ├─ DESE
+│  │  ├─ 1.sql
+│  │  ├─ 10.sql
+│  │  ├─ 11.sql
+│  │  ├─ 12.sql
+│  │  ├─ 13.sql
+│  │  ├─ 2.sql
+│  │  ├─ 3.sql
+│  │  ├─ 4.sql
+│  │  ├─ 5.sql
+│  │  ├─ 6.sql
+│  │  ├─ 7.sql
+│  │  ├─ 8.sql
+│  │  └─ 9.sql
+│  ├─ MoneyBall
+│  │  ├─ 1.sql
+│  │  ├─ 10.sql
+│  │  ├─ 11.sql
+│  │  ├─ 12.sql
+│  │  ├─ 2.sql
+│  │  ├─ 3.sql
+│  │  ├─ 4.sql
+│  │  ├─ 5.sql
+│  │  ├─ 6.sql
+│  │  ├─ 7.sql
+│  │  ├─ 8.sql
+│  │  └─ 9.sql
+│  └─ Packages Please
+│     ├─ answers.txt
+│     └─ log.sql
+├─ Problem Set 3
+│  ├─ Dont Panic
+│  │  ├─ hack.sql
+│  │  └─ reset.sql
+│  └─ Meteorite Cleaning
+│     └─ import.sql
+├─ Problem Set 4
+│  ├─ census
+│  │  ├─ by_district.sql
+│  │  ├─ most_populated.sql
+│  │  ├─ rural.sql
+│  │  └─ total.sql
+│  └─ The Private Eye
+│     └─ private.sql
+├─ ProblemSet 0
+│  ├─ CyberChase
+│  │  ├─ 1.sql
+│  │  ├─ 10.sql
+│  │  ├─ 11.sql
+│  │  ├─ 12.sql
+│  │  ├─ 13.sql
+│  │  ├─ 2.sql
+│  │  ├─ 3.sql
+│  │  ├─ 4.sql
+│  │  ├─ 5.sql
+│  │  ├─ 6.sql
+│  │  ├─ 7.sql
+│  │  ├─ 8.sql
+│  │  ├─ 9.sql
+│  │  └─ CyberChase.md
+│  ├─ Normals
+│  │  ├─ 1.sql
+│  │  ├─ 10.sql
+│  │  ├─ 2.sql
+│  │  ├─ 3.sql
+│  │  ├─ 4.sql
+│  │  ├─ 5.sql
+│  │  ├─ 6.sql
+│  │  ├─ 7.sql
+│  │  ├─ 8.sql
+│  │  ├─ 9.sql
+│  │  └─ Normals.md
+│  └─ Players
+│     ├─ 1.sql
+│     ├─ 10.sql
+│     ├─ 2.sql
+│     ├─ 3.sql
+│     ├─ 4.sql
+│     ├─ 5.sql
+│     ├─ 6.sql
+│     ├─ 7.sql
+│     ├─ 8.sql
+│     ├─ 9.sql
+│     └─ Players.md
+├─ ProblemSet 2
+│  ├─ atl.sql
+│  ├─ connect.sql
+│  └─ donuts.sql
+└─ README.md
+```
+
+---
+
 ## 🙌 Acknowledgments
 
 * [CS50’s Introduction to Databases with SQL](https://cs50.harvard.edu/sql/)
